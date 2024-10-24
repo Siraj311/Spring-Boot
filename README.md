@@ -12,11 +12,8 @@ It serves as a comprehensive resource for understanding and implementing various
 # Spring Data JPA: 
     Simplified data access and repository abstraction.
 
-# Spring MVC: 
-    RESTful web services and web development.
-
-# Spring Security: 
-    Securing web applications and handling authentication and authorization.
+# photoz-clone
+A tiny Google Photos-like clone with Spring Boot.
 
 
 
